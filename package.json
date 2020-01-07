@@ -1,0 +1,15 @@
+{
+    "name": "tp-madhous-youssef",
+    "version": "1.0.0",
+    "main": "server.js",
+    "author": "MADHOUS YOUSSEF | youssef.madhous@ynov.com",
+    "license": "MIT",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "pg": "^7.14.0",
+      "redis": "^2.8.0"
+    }
+  }
