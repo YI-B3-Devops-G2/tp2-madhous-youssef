@@ -12,7 +12,7 @@ services:
     container_name: docker-tp-postgres
     environment:
       POSTGRES_USER: root
-      POSTGRES_PASSWORD: ynov69
+      POSTGRES_PASSWORD: you123
       POSTGRES_DB: tpdocker
       PGDATA: /data/postgres
     depends_on:
